@@ -1,0 +1,26 @@
+{
+	"name": "lucasmichot/eloquentcopy",
+	"description": "Provides a simple way to duplicate a model instance",
+	"keywords": [
+		"Laravel",
+		"Eloquent",
+		"copy"
+	],
+	"authors": [
+		{
+			"name": "Lucas Michot",
+			"email": "lucas@semalead.com"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0",
+		"illuminate/support": "4.2.*"
+	},
+	"autoload": {
+		"psr-0": {
+			"Lucasmichot\\Eloquentcopy": "src/"
+		}
+	},
+	"minimum-stability": "stable",
+	"license": "MIT"
+}
